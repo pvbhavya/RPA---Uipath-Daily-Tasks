@@ -1,5 +1,34 @@
-Day 1 - Exploring Uipath studio and its functions 
--> Variables and Arguments.
-Processes done include adding two numbers, getting input of a user's name, concatenate two strings, display greeting, calculating an employee's salary,
-generation of full name, multiplication of two numbers, passing a name, passing a number & subtracting two numbers.
-Explore how to create variables and declare arguments using invoke workflows.
+This repository contains my daily learning and practice tasks completed using **UiPath Studio**
+
+### Daily Tasks 
+
+### Day 1 - Variables & Arguments
+
+**Topics Covered**
+- Variables
+- Data types
+- Arguments
+- Input and Output arguments
+- Assigning values to variables
+- Passing data between workflows
+- Invoke workflow file
+
+### Day 2 - Conditional Statements
+**Topics Covered**
+- If statement
+- If-else statement
+- Else if
+- Boolean Conditions
+- Decision making in workflows
+
+### Day 3 - Loops, Lists & Arrays
+**Topics covered**
+- For-each loop
+- While loop
+- Do while loop
+- Lists
+- Arrays
+- Initializing Lists and Arrays
+- Iterating through collections
+
+  
