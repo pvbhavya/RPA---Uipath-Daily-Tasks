@@ -21,13 +21,14 @@ This repository contains my daily learning and practice tasks completed using **
 - Boolean Conditions
 - Decision making in workflows
 
-### Day 3 - Loops, Lists & Arrays
+### Day 3 - Loops & collections
 **Topics covered**
 - For-each loop
 - While loop
 - Do while loop
 - Lists
 - Arrays
+- Dictionaries
 - Initializing Lists and Arrays
 - Iterating through collections
 
