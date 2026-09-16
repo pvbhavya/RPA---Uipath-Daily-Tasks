@@ -32,4 +32,37 @@ This repository contains my daily learning and practice tasks completed using **
 - Initializing Lists and Arrays
 - Iterating through collections
 
+### Day 4 - String Manipulation
+**Topics covered**
+- Convert to uppercase
+- Convert to lowercase
+- remove spaces
+- find the length
+- Contains
+- Replace
+- Extract part
+- split text
+- join strings
+
+### Day 5 - Files & Folders
+**Topics covered**
+- Create a folder
+- Create a file
+- Write/append a file
+- Copy a file
+- Move a file
+- Delete a file
+- Delete a folder
+- Tasks such as employee data management using these basics mentioned above.
+
+### Day 6 - PDF Automation
+**Topics Covered**
+- to install PDF packages within UiPath
+- Read PDF
+- Read PDF with OCR
+- Page count in a PDF
+- Join PDF
+- Page Range in a PDF
+- Extract image from PDF
+
   
