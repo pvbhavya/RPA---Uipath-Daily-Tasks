@@ -1,0 +1,14 @@
+﻿{
+  "Name": "combo box Ask Google(1)",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "iyIo2FbE9katT9BvaA7idA",
+  "Reference": "RgnR0e3gWUuMJ_NTLH5dew/iyIo2FbE9katT9BvaA7idA",
+  "ParentRef": "RgnR0e3gWUuMJ_NTLH5dew/9o5ep9xC7kK8yOBI1YqRiA",
+  "Created": "2026-09-23T08:58:40.6033371Z",
+  "Updated": "2026-09-23T08:58:40.6033371Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eYdkUBWJp0qO1j0WYj3RNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com/s" DesignTimeRectangle="788, 366, 1009, 70" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Amazon Basics 2.4 GHz Wireless Optical Computer Mouse with USB Nano Receiver, Portable, No Wires, Smooth Tracking, Multi-Device Compatibility, Black' tag='SPAN' /&gt;" Guid="aebdf624-4b05-483b-90fe-3319b4b7574e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='atd-param-exclusion-strategy' title='Amazon.com : wireless mouse' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e5cbd6772131c506a0cf0215d9ab4d58.jpg" xmlns="">06zC3PbckbESo4MzNlym36g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

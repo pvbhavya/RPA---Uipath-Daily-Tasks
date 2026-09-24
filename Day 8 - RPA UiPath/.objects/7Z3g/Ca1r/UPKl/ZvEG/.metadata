@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Logitech M185 Compact A…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ZvEGIrp-_UeOMO6kcDUl6g",
+  "Reference": "RgnR0e3gWUuMJ_NTLH5dew/ZvEGIrp-_UeOMO6kcDUl6g",
+  "ParentRef": "RgnR0e3gWUuMJ_NTLH5dew/UPKlqwrgSk-QDu4ZqgP8xg",
+  "Created": "2026-09-23T09:21:00.3278326Z",
+  "Updated": "2026-09-23T09:21:00.3278326Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

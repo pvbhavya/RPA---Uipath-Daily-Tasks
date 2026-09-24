@@ -1,0 +1,14 @@
+﻿{
+  "Name": "°C",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Ln5qn4JA-E6JaQAARKJmTQ",
+  "Reference": "RgnR0e3gWUuMJ_NTLH5dew/Ln5qn4JA-E6JaQAARKJmTQ",
+  "ParentRef": "RgnR0e3gWUuMJ_NTLH5dew/k_0J-pqG-0ChWZYDFBL2MQ",
+  "Created": "2026-09-16T04:52:56.9944915Z",
+  "Updated": "2026-09-16T04:52:56.9944915Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

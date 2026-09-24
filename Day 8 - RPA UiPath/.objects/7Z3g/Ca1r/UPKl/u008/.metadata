@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "u008Ir-Iu0ScluE8c1Za6g",
+  "Reference": "RgnR0e3gWUuMJ_NTLH5dew/u008Ir-Iu0ScluE8c1Za6g",
+  "ParentRef": "RgnR0e3gWUuMJ_NTLH5dew/UPKlqwrgSk-QDu4ZqgP8xg",
+  "Created": "2026-09-23T09:24:13.7883241Z",
+  "Updated": "2026-09-23T09:24:13.7883241Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
